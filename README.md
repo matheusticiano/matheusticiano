@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusticiano .
-- 👀 I’m interested in Back-end .
-- 🌱 I’m currently learning Python .
+- 👀 I’m interested in FullStack .
+- 🌱 I’m currently learning React .
 - 📫 Instagram : @ticiano.matheus .
 
 <!---
